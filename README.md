@@ -14,7 +14,7 @@ Développement d'une régression linéaire multiple en utilisant plusieurs varia
 Utilisation de métriques telles que Mean Squared Error (MSE) et R-squared pour évaluer la performance des modèles.
 
 ## Phases du projet
-- **Préparation de l'environnement** : Mise en place de l'environnement Python avec les bibliothèques nécessaires (pandas, scikit-learn).
+- **Préparation de l'environnement** : Mise en place de l'environnement Python avec les bibliothèques nécessaires (`numpy`, `pandas`, `scikit-learn`, and `ydata-profiling`)
 Présentation des données : Importation et exploration du Boston Housing Dataset.
 - **Exploration des données** : Génération de rapports de profilage des données et création de matrices de corrélation.
 Implémentation de la régression linéaire : Application de la régression linéaire simple et multiple sur les données.
