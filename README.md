@@ -1,24 +1,19 @@
-# Régression Linéaire avec le Boston Housing Dataset
+# Linear Regression with the Boston Housing Dataset
 
 [Jupyter Notebook](https://albanecoiffe.github.io/Boston_Housing_lab1/)   
 
-Ce projet a pour objectif d'introduire la <u>**régression linéaire**</u>, en utilisant le Boston Housing Dataset. 
-Ce dataset est très populaire dans la communauté de l'apprentissage automatique et contient diverses informations relatives aux prix des logements à Boston. Nous allons développer à la fois des modèles de régression linéaire simple et multiple pour prédire la valeur médiane des maisons en fonction de plusieurs caractéristiques.
+This project aims to introduce linear regression using the Boston Housing Dataset. This dataset is widely used in the machine learning community and contains various attributes related to housing prices in Boston. We will develop both simple and multiple linear regression models to predict the median house value based on multiple features.
 
-## 📊 Objectifs du projet
-- **Exploration des données** :
-Compréhension et visualisation du dataset pour identifier les variables les plus pertinentes.
-Analyse des relations entre les caractéristiques du dataset et la variable cible (MEDV - valeur médiane des maisons).
-- **Implémentation de la régression linéaire** :
-Mise en place d'une régression linéaire simple avec une seule variable explicative.
-Développement d'une régression linéaire multiple en utilisant plusieurs variables pour améliorer les prédictions.
-- **Évaluation du modèle** :
-Utilisation de métriques telles que Mean Squared Error (MSE) et R-squared pour évaluer la performance des modèles.
+## 📊 Project Objectives
+- Data Exploration: Understanding and visualizing the dataset to identify the most relevant variables. Analyzing the relationships between dataset features and the target variable (MEDV - Median House Value).
+- Linear Regression Implementation:
+  - Implementing simple linear regression with a single explanatory variable.
+  - Developing multiple linear regression using multiple features to improve predictions.
+- Model Evaluation: Assessing model performance using metrics such as Mean Squared Error (MSE) and R-squared (R²).
 
-## 🛠️ Phases du projet
-- **Préparation de l'environnement** : Mise en place de l'environnement Python avec les bibliothèques nécessaires (`numpy`, `pandas`, `scikit-learn`, and `ydata-profiling`)
-Présentation des données : Importation et exploration du Boston Housing Dataset.
-- **Exploration des données** : Génération de rapports de profilage des données et création de matrices de corrélation.
-Implémentation de la régression linéaire : Application de la régression linéaire simple et multiple sur les données.
-- **Conclusion** : Analyse des performances des modèles et réflexion sur les résultats obtenus.
-
+## 🛠️ Project Phases
+- Environment Setup: Setting up the Python environment with necessary libraries (numpy, pandas, scikit-learn, and ydata-profiling).
+- Data Presentation: Importing and exploring the Boston Housing Dataset.
+- Data Exploration: Generating data profiling reports and creating correlation matrices.
+- Linear Regression Implementation: Applying both simple and multiple linear regression on the dataset.
+- Conclusion: Analyzing model performance and reflecting on the results.
